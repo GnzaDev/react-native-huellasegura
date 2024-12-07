@@ -1,0 +1,21 @@
+node_modules/
+.expo/
+# OSX
+
+#
+.DS_Store
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+.cxx/
+
+
+# Bundle artifacts
+*.jsbundle
+node_modules/
